@@ -1,1 +1,4 @@
-"# git-knowledge" 
+"\# git-knowledge"
+
+这个地方记录一些团队开发所需的通用知识和规范
+
